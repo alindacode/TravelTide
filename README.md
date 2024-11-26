@@ -19,4 +19,4 @@ Elena’s mission is to design and execute a fantastic personalized rewards prog
 3. [Customer Segmentation]() W. I. P.
 4. [Visualization on Tableau]() W. I. P.
 5. [TravelTide presentation slides](https://docs.google.com/presentation/d/1OlcZB4M-x3FQI5QXDSEsMwpU6SVkw2wJxG6LDx5xy2s/edit?usp=sharing) W.I.P.
-6. [TravelTide Video presebtation]() W. I. P.
+6. [TravelTide Video presentation]() W. I. P.
