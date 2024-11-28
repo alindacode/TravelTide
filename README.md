@@ -15,9 +15,10 @@ Elena’s mission is to design and execute a fantastic personalized rewards prog
 ![TravelTide customer segments](https://github.com/alindacode/TravelTide/blob/main/TravelTide_customer_segmentation.pdf)
 
 ## TraveTide Files
-1. [TravelTide SQL Query](https://github.com/alindacode/TravelTide/blob/main/TravelTide_Dorothy_Alinda_SQL_Query.pdf)
-2. [TravelTide Data](https://github.com/alindacode/TravelTide/blob/main/TravelTide_final_data_Dorothy_Alinda.csv)
-3. [Customer Segmentation]![image](https://github.com/alindacode/TravelTide/blob/main/TravelTide_customer_segmentation.pdf)
-4. [Visualization on Tableau](https://public.tableau.com/app/profile/dorothy.alinda/viz/TravelTideMasteryproject/Dashboard1) 
-5. [TravelTide presentation slides](https://docs.google.com/presentation/d/1OlcZB4M-x3FQI5QXDSEsMwpU6SVkw2wJxG6LDx5xy2s/edit?usp=sharing) 
-6. [TravelTide Video presentation]() W. I. P.
+1.[TravelTide Executive Summary](https://docs.google.com/document/d/1PAGUMdDhLIbbdLtR-yxP-8GImYwGZtTpt0FtFyqMh14/edit?usp=sharing)
+2. [TravelTide SQL Query](https://github.com/alindacode/TravelTide/blob/main/TravelTide_Dorothy_Alinda_SQL_Query.pdf)
+3. [TravelTide Data](https://github.com/alindacode/TravelTide/blob/main/TravelTide_final_data_Dorothy_Alinda.csv)
+4. ![Customer Segmentation](https://github.com/alindacode/TravelTide/blob/main/TravelTide_customer_segmentation.pdf)
+5. [Visualization on Tableau](https://public.tableau.com/app/profile/dorothy.alinda/viz/TravelTideMasteryproject/Dashboard1) 
+6. [TravelTide presentation slides](https://docs.google.com/presentation/d/1OlcZB4M-x3FQI5QXDSEsMwpU6SVkw2wJxG6LDx5xy2s/edit?usp=sharing) 
+7. [TravelTide Video presentation]() W. I. P.
