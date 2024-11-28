@@ -12,6 +12,7 @@ Elena’s mission is to design and execute a fantastic personalized rewards prog
 - Exclusive discounts
 - 1 night free with hotel
 ## Customer Segments
+(TravelTide customer segments)![image](https://github.com/user-attachments/assets/ba31a980-29eb-4a6d-bd34-707aa0333c7e)
 
 ## TraveTide Files
 1. [TravelTide SQL Query](https://github.com/alindacode/TravelTide/blob/main/TravelTide_Dorothy_Alinda_SQL_Query.pdf)
