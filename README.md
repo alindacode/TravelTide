@@ -12,12 +12,12 @@ Elena’s mission is to design and execute a fantastic personalized rewards prog
 - Exclusive discounts
 - 1 night free with hotel
 ## Customer Segments
-[TravelTide customer segments]![image](https://github.com/alindacode/TravelTide/blob/main/TravelTide_customer_segmentation.pdf)
+![TravelTide customer segments](https://github.com/alindacode/TravelTide/blob/main/TravelTide_customer_segmentation.pdf)
 
 ## TraveTide Files
 1. [TravelTide SQL Query](https://github.com/alindacode/TravelTide/blob/main/TravelTide_Dorothy_Alinda_SQL_Query.pdf)
 2. [TravelTide Data](https://github.com/alindacode/TravelTide/blob/main/TravelTide_final_data_Dorothy_Alinda.csv)
 3. [Customer Segmentation]![image](https://github.com/alindacode/TravelTide/blob/main/TravelTide_customer_segmentation.pdf)
-4. [Visualization on Tableau]() W. I. P.
-5. [TravelTide presentation slides](https://docs.google.com/presentation/d/1OlcZB4M-x3FQI5QXDSEsMwpU6SVkw2wJxG6LDx5xy2s/edit?usp=sharing) W.I.P.
+4. [Visualization on Tableau](https://public.tableau.com/app/profile/dorothy.alinda/viz/TravelTideMasteryproject/Dashboard1) 
+5. [TravelTide presentation slides](https://docs.google.com/presentation/d/1OlcZB4M-x3FQI5QXDSEsMwpU6SVkw2wJxG6LDx5xy2s/edit?usp=sharing) 
 6. [TravelTide Video presentation]() W. I. P.
