@@ -15,7 +15,7 @@ Elena’s mission is to design and execute a fantastic personalized rewards prog
 ![TravelTide customer segments](https://github.com/alindacode/TravelTide/blob/main/TravelTide_customer_segmentation.pdf)
 
 ## TraveTide Files
-1. [TravelTide Executive Summary](https://github.com/alindacode/TravelTide/blob/main/TravelTide%20Executive%20summary.pdf))
+1. [TravelTide Executive Summary](https://github.com/alindacode/TravelTide/blob/main/TravelTide%20Executive%20summary.pdf)
 2. [TravelTide SQL Query](https://github.com/alindacode/TravelTide/blob/main/TravelTide_Dorothy_Alinda_SQL_Query.pdf)
 3. [TravelTide Data](https://github.com/alindacode/TravelTide/blob/main/TravelTide_final_data_Dorothy_Alinda.csv)
 4. ![Customer Segmentation](https://github.com/alindacode/TravelTide/blob/main/TravelTide_customer_segmentation.pdf)
