@@ -21,5 +21,5 @@ Elena’s mission is to design and execute a fantastic personalized rewards prog
 4. ![Customer Segmentation](https://github.com/alindacode/TravelTide/blob/main/TravelTide_customer_segmentation.pdf)
 5. [Visualization on Tableau](https://public.tableau.com/app/profile/dorothy.alinda/viz/TravelTideMasteryproject/Dashboard1) 
 6. [TravelTide presentation slides](https://docs.google.com/presentation/d/1OlcZB4M-x3FQI5QXDSEsMwpU6SVkw2wJxG6LDx5xy2s/edit?usp=sharing) 
-7. [TravelTide Video presentation]() W. I. P.
+7. [TravelTide Video presentation](https://www.loom.com/share/12e266e9a73941c5abb86fd92ef1aa36?sid=5eec7ee4-80bd-4981-88bd-cc1215ef6aee) 
 
